@@ -1,0 +1,38 @@
+{
+  "id": "9403852f-9fbd-4073-8bec-40685c784238",
+  "name": "Test",
+  "publisher": "Ternpoint Solutions LP",
+  "brief": "Test",
+  "description": "Test",
+  "version": "1.0.0.0",
+  "privacyStatement": "https://www.ternpoint.solutions/faqs/faq-privacy-policy",
+  "EULA": "https://www.ternpoint.solutions/faqs/faq-eula",
+  "help": "https://www.ternpoint.solutions/resource-center",
+  "url": "https://www.ternpoint.solutions",
+  "contextSensitiveHelpUrl": "https://www.ternpoint.solutions",
+  "logo": "",
+  "screenshots": [],
+  "dependencies": [
+   
+  ],
+  "application": "25.0.0.0",
+  "platform": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50200
+    },
+    {
+      "from": 80000,
+      "to": 80200
+    }
+  ],
+  "features": ["TranslationFile"],
+  "target": "Cloud",
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "15.0"
+}
